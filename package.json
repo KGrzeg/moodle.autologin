@@ -11,7 +11,10 @@
     "url": "git+https://github.com/KGrzeg/moodle.autologin.git"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "Grzegorz Kupczyk",
+    "email": "kupczykgrzeg@gmail.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/KGrzeg/moodle.autologin/issues"
