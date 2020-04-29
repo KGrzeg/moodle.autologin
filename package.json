@@ -1,0 +1,23 @@
+{
+  "name": "moodle.autologin",
+  "version": "1.0.0",
+  "description": "Automatically login into moodle platform of my college using puppeteer for future automations purpose.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KGrzeg/moodle.autologin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KGrzeg/moodle.autologin/issues"
+  },
+  "homepage": "https://github.com/KGrzeg/moodle.autologin#readme",
+  "dependencies": {
+    "puppeteer": "^3.0.2"
+  }
+}
