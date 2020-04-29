@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/KGrzeg/moodle.autologin#readme",
   "dependencies": {
-    "puppeteer": "^3.0.2"
+    "puppeteer": "^3.0.2",
+    "yargs": "^15.3.1"
   }
 }
